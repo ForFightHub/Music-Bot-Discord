@@ -23,6 +23,12 @@ Way 2 :
 8.Run install.bat & wait to install.
 9.To run bot & get it online, run "start.bat"
 ```
+
+## Some Customize! 
+- Check this path : "events/ready.js". Open file, customize you bot status with file helps!
+- Check tish path : "commands/invite.js". Open file, at line 13 you can set the permissions id with link! Do it for better invite command.
+
+
 ## Any Problem?
 - If you are persian, visit my site or my aparat channeel (or youtube). My site : https://arminia.ir
 - If you are at other countries, contact me at discord! My Nickname at my profile.
