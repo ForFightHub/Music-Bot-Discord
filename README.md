@@ -7,7 +7,8 @@ Way 1 :
 1.Just download this repository
 2.Install Node.js on your pc. Link : https://nodejs.org/en/download/releases/ . e carful! Must download version 13 or upper! (If you have windows 7 or lower, try way 2!)
 3.Edit .env on your code editor. Add your bot token to "TOKEN" & your favorite perfix bot to "PERFIX"
-4.Run "start.bat" & enjoy!
+4.Run "install.bat" & wait for install steps!
+5.Run "start.bat" & enjoy!
 ```
 
 ```
