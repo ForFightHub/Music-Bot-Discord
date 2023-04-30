@@ -32,6 +32,8 @@ Way 2 :
 ## Any Problem?
 - If you are persian, visit my site or my aparat channeel (or youtube). My site : https://arminia.ir
 - If you are at other countries, contact me at discord! My Nickname at my profile.
+- New discord server to have connection! Link : https://discord.gg/8hhwBy8K9m
 
 ## Follow me & see other repositories.
 - Thanks for your reading 🖐
+- Thanks hamid hungry for his codes. That help me lot! [His GitHub](https://https://discord.gg/8hhwBy8K9m)
