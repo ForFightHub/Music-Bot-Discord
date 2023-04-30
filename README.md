@@ -36,4 +36,4 @@ Way 2 :
 
 ## Follow me & see other repositories.
 - Thanks for your reading 🖐
-- Thanks hamid hungry for his codes. That help me lot! [His GitHub](https://https://discord.gg/8hhwBy8K9m)
+- Thanks hamid hungry for his codes. Code is not copy, But that help me lot! [His GitHub](https://github.com/Di3colearn)
