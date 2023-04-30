@@ -5,7 +5,7 @@ Music Bot for discord, CopyRight is safe. But you can use it for personal works!
 ```
 Way 1 :
 1.Just download this repository
-2.Install Node.js on your pc. Link : https://nodejs.org/en/download/releases/ . e carful! Must download version 13 or upper! (If you have windows 7 or lower, try way 2!)
+2.Install Node.js on your pc. [Download Links](https://nodejs.org/en/download/releases/). Be carful! Must download version 13 or upper! (If you have windows 7 or lower, try way 2!)
 3.Edit .env on your code editor. Add your bot token to "TOKEN" & your favorite perfix bot to "PERFIX"
 4.Run "install.bat" & wait for install steps!
 5.Run "start.bat" & enjoy!
@@ -13,7 +13,7 @@ Way 1 :
 
 ```
 Way 2 :
-1.Go to https://glitch.com
+1.Go to [Glitch](https://glitch.com)
 2.Sign in or sign up to site.
 3.Go to site dashboard and click on "new project".
 4.Copy this Github project url and add ".git" in the end of it.
@@ -30,9 +30,9 @@ Way 2 :
 
 
 ## Any Problem?
-- If you are persian, visit my site or my aparat channeel (or youtube). My site : https://arminia.ir
+- If you are persian, visit my site or my aparat channeel (or youtube). [My site](https://arminia.ir)
 - If you are at other countries, contact me at discord! My Nickname at my profile.
-- New discord server to have connection! Link : https://discord.gg/8hhwBy8K9m
+- New discord server to have connection! [Server Link](https://discord.gg/8hhwBy8K9m)
 
 ## Follow me & see other repositories.
 - Thanks for your reading 🖐
