@@ -26,7 +26,7 @@ Way 2 :
 
 ## Some Customize! 
 - Check this path : "events/ready.js". Open file, customize you bot status with file helps!
-- Check tish path : "commands/invite.js". Open file, at line 13 you can set the permissions id with link! Do it for better invite command.
+- Check this path : "commands/invite.js". Open file, at line 13 you can set the permissions id with link! Do it for better invite command.
 
 
 ## Any Problem?
